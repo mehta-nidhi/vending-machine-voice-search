@@ -15,6 +15,6 @@
 
 
 **Demo Link**
-https://thepinakin.com/projects/vending-voice-search/
+
 
 
